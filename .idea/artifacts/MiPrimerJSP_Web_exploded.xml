@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+	<artifact type="exploded-war" name="MiPrimerJSP:Web exploded">
+		<output-path>$PROJECT_DIR$/out/artifacts/MiPrimerJSP_Web_exploded</output-path>
+		<root id="root">
+			<element id="javaee-facet-resources"
+				facet="MiPrimerJSP/web/Web" />
+			<element id="directory" name="WEB-INF">
+				<element id="directory" name="classes">
+					<element id="module-output" name="MiPrimerJSP" />
+				</element>
+			</element>
+		</root>
+	</artifact>
+</component>
